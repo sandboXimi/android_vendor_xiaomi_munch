@@ -179,6 +179,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/munch/proprietary/vendor/firmware/tfa98xx.cnt:$(TARGET_COPY_OUT_VENDOR)/firmware/tfa98xx.cnt \
     vendor/xiaomi/munch/proprietary/vendor/lib64/camera/com.qti.sensormodule.munch_aac_ov8856_ultra.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.munch_aac_ov8856_ultra.bin \
     vendor/xiaomi/munch/proprietary/vendor/lib64/camera/com.qti.sensormodule.munch_ofilm_gc02m1_macro.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.munch_ofilm_gc02m1_macro.bin \
+    vendor/xiaomi/munch/proprietary/vendor/lib64/camera/com.qti.sensormodule.munch_ofilm_imx582_wide.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.munch_ofilm_imx582_wide.bin \
     vendor/xiaomi/munch/proprietary/vendor/lib64/camera/com.qti.sensormodule.munch_ofilm_imx596_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.munch_ofilm_imx596_front.bin \
     vendor/xiaomi/munch/proprietary/vendor/lib64/camera/com.qti.sensormodule.munch_sunny_gc02m1_macro.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.munch_sunny_gc02m1_macro.bin \
     vendor/xiaomi/munch/proprietary/vendor/lib64/camera/com.qti.sensormodule.munch_sunny_imx596_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.munch_sunny_imx596_front.bin \
